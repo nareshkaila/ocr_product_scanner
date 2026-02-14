@@ -1,0 +1,53 @@
+
+📸  Scanning: sample_images/nutella_label.png
+────────────────────────────────────────────────────────────
+🔎  Running OCR… done (1.40s, confidence 93.6%)
+   Barcodes detected: 3017620422003
+────────────────────────────────────────────────────────────
+RAW OCR TEXT:
+  FERRERO 400g
+  Hazelnut Spread with Cocoa
+  INGREDIENTS
+  Sugar, Palm Oil, Hazelnuts 13%, Skimmed Milk Powder 8.7%, Fat-
+  Reduced Cocoa 7.4%, Emulsifiers: Lecithins (Soy), Vanillin: An
+  Artificial Flavour
+  NUTRITION FACTS
+  Serving Size 15g (1 tbsp)
+  Calories 80 kcal
+  Total Fat 4.5g
+  Saturated Fat 1.5g
+  Total Carbs 9g
+  Sugars 8g
+  Protein 1g
+  3017620422003
+
+🔑  Search terms: ['3017620422003', 'ferrero', '400g', 'hazelnut', 'spread']
+🔍  Looking up product… done (1.24s)
+══════════════════════════════════════════════════════════════
+  PRODUCT DETAILS
+══════════════════════════════════════════════════════════════
+  Product Name          Nutella
+  Brand                 Ferrero
+  Quantity              400g
+  Nutri-Score           E
+  Eco-Score             C
+  Countries             France, Germany, Italy, United Kingdom
+────────────────────────────────────────────────────────────
+  CATEGORIES
+    Spreads, Sweet spreads, Hazelnut spreads, Cocoa and hazelnut spreads
+────────────────────────────────────────────────────────────
+  INGREDIENTS
+    Sugar, Palm Oil, Hazelnuts 13%, Skimmed Milk Powder 8.7%, Fat-Reduced Co
+    coa 7.4%, Emulsifiers: Lecithins (Soy), Vanillin: An Artificial Flavour
+────────────────────────────────────────────────────────────
+  NUTRITION FACTS  (per 100g)
+    Energy (kcal)       539
+    Fat (g)             30.9
+    Saturated Fat (g)   10.6
+    Carbohydrates (g)   57.5
+    Sugars (g)          56.3
+    Protein (g)         6.3
+    Salt (g)            0.107
+──────────────────────────────────────────────────────────────
+  Source: Demo DB (offline)
+══════════════════════════════════════════════════════════════
